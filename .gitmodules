@@ -1,0 +1,9 @@
+[submodule "ahz-todosvc"]
+	path = ahz-todosvc
+	url = https://github.com/alihamzhei/ahz-todosvc.git
+[submodule "ahz-gatewaysvc"]
+	path = ahz-gatewaysvc
+	url = https://github.com/alihamzhei/ahz-gatewaysvc.git
+[submodule "ahz-authsvc"]
+	path = ahz-authsvc
+	url = https://github.com/alihamzhei/ahz-authsvc.git
